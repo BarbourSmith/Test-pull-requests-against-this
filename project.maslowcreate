@@ -10,8 +10,8 @@
         {
             "atomType": "Circle",
             "name": "Circle",
-            "x": 0.07010309278350516,
-            "y": 0.4198473282442748,
+            "x": 0.24304538799414352,
+            "y": 0.38167938931297707,
             "uniqueID": 701798,
             "ioValues": [
                 {
@@ -40,11 +40,21 @@
         {
             "atomType": "Readme",
             "name": "README",
-            "x": 0.22783505154639172,
-            "y": 0.6984732824427481,
+            "x": 0.5600292825768667,
+            "y": 0.24427480916030533,
             "uniqueID": 437797,
             "ioValues": [],
             "readmeText": "Add something to the readme"
+        },
+        {
+            "atomType": "GitHubMolecule",
+            "name": "M3x30 Bolt",
+            "x": 0.13396778916544655,
+            "y": 0.7251908396946565,
+            "uniqueID": 942729,
+            "projectID": "253144023",
+            "ioValues": [],
+            "simplify": false
         },
         {
             "atomType": "Color",
@@ -61,6 +71,23 @@
             "selectedColorIndex": "15"
         },
         {
+            "atomType": "Assembly",
+            "name": "Assembly",
+            "x": 0.7503660322108345,
+            "y": 0.7175572519083969,
+            "uniqueID": 544164,
+            "ioValues": [
+                {
+                    "name": "3D shape 1",
+                    "ioValue": 10
+                },
+                {
+                    "name": "3D shape 2",
+                    "ioValue": 10
+                }
+            ]
+        },
+        {
             "atomType": "Output",
             "name": "Output",
             "x": 0.9853587115666179,
@@ -69,7 +96,7 @@
             "ioValues": [
                 {
                     "name": "number or geometry",
-                    "ioValue": "atoms/951869/780493Color"
+                    "ioValue": "atoms/951869/544164Assembly"
                 }
             ]
         }
@@ -90,10 +117,24 @@
             "ap2ID": 780493
         },
         {
+            "ap1Name": "Geometry",
+            "ap2Name": "3D shape 1",
+            "ap2Primary": false,
+            "ap1ID": 942729,
+            "ap2ID": 544164
+        },
+        {
+            "ap1Name": "geometry",
+            "ap2Name": "3D shape 2",
+            "ap2Primary": false,
+            "ap1ID": 780493,
+            "ap2ID": 544164
+        },
+        {
             "ap1Name": "geometry",
             "ap2Name": "number or geometry",
             "ap2Primary": false,
-            "ap1ID": 780493,
+            "ap1ID": 544164,
             "ap2ID": 535888
         }
     ],
