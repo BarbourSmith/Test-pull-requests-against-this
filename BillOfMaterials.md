@@ -2,6 +2,7 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
-|Total: |0|$0.00| |
+|M6 Nut|1|$0.03|https://www.mcmaster.com/90592A016/|
+|Total: |1|$0.03| |
 
- 3xCOG MSRP: $0.00
+ 3xCOG MSRP: $0.08

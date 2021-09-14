@@ -71,6 +71,16 @@
             "selectedColorIndex": "15"
         },
         {
+            "atomType": "GitHubMolecule",
+            "name": "M6 Nut",
+            "x": 0.5155080213903743,
+            "y": 0.8931297709923663,
+            "uniqueID": 751839,
+            "projectID": "373270231",
+            "ioValues": [],
+            "simplify": false
+        },
+        {
             "atomType": "Assembly",
             "name": "Assembly",
             "x": 0.7503660322108345,
@@ -83,6 +93,10 @@
                 },
                 {
                     "name": "3D shape 2",
+                    "ioValue": 10
+                },
+                {
+                    "name": "3D shape 3",
                     "ioValue": 10
                 }
             ]
@@ -128,6 +142,13 @@
             "ap2Name": "3D shape 2",
             "ap2Primary": false,
             "ap1ID": 780493,
+            "ap2ID": 544164
+        },
+        {
+            "ap1Name": "Geometry",
+            "ap2Name": "3D shape 3",
+            "ap2Primary": false,
+            "ap1ID": 751839,
             "ap2ID": 544164
         },
         {
