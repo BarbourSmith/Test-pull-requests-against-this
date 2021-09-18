@@ -966,10 +966,15 @@
         {
             "atomType": "Stl",
             "name": "Stl",
-            "x": 0.7972181551976575,
-            "y": 0.7213740458015268,
+            "x": 0.7979502196193266,
+            "y": 0.7442748091603054,
             "uniqueID": 502958,
-            "ioValues": []
+            "ioValues": [
+                {
+                    "name": "geometry",
+                    "ioValue": "atoms/951869/568492Difference"
+                }
+            ]
         },
         {
             "atomType": "Output",
@@ -1020,6 +1025,13 @@
             "ap2Primary": false,
             "ap1ID": 568492,
             "ap2ID": 535888
+        },
+        {
+            "ap1Name": "geometry",
+            "ap2Name": "geometry",
+            "ap2Primary": false,
+            "ap1ID": 568492,
+            "ap2ID": 502958
         },
         {
             "ap1Name": "Geometry",
