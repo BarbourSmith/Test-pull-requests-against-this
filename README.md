@@ -4,6 +4,3 @@
 
 ![](/project.svg)
 
-Add something to the readme
-
-
